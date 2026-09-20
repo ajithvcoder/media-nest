@@ -11,6 +11,15 @@ It scans your chosen media directory, groups series by folder naming, categorize
 
 After the app loads, choose a root folder for your media library.
 
+
+## Screenshots
+
+
+![](./assets/Screenshot_2.png)
+
+![](./assets/Screenshot_1.png)
+
+
 ### Folder naming rules
 
 - Web series folders should end with -series
@@ -52,6 +61,7 @@ MyMedia/
 - Support for audio and subtitle track selection
 - Auto-generated poster thumbnails for video files
 - Real-time library refresh when files change
+
 
 ## Development
 
